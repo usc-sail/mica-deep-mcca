@@ -15,3 +15,5 @@ scikit_learn==0.20.0
 ```
 
 The paper was submitted to ICASSP 2019. A draft version can be found [here](https://drive.google.com/file/d/1f3XF17TFBIUuOJ0s6pvuQqNgH2PKNNSS/view?usp=sharing)
+
+Detailed experimental results can be found [here in the wiki page](https://github.com/usc-sail/mica-deep-mcca/wiki)
